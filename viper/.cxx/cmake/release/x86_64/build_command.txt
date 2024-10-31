@@ -1,0 +1,19 @@
+Executable : D:\sdk\cmake\3.10.2.4988404\bin\cmake.exe
+arguments : 
+-HD:\W3_Office\main_repo\viper_gitlab\viper\viper\src\main\cpp
+-BD:\W3_Office\main_repo\viper_gitlab\viper\viper\.cxx\cmake\release\x86_64
+-DANDROID_ABI=x86_64
+-DANDROID_PLATFORM=android-21
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\W3_Office\main_repo\viper_gitlab\viper\viper\build\intermediates\cmake\release\obj\x86_64
+-DCMAKE_BUILD_TYPE=Release
+-DANDROID_NDK=D:\sdk\ndk\21.1.6352462
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_ANDROID_ARCH_ABI=x86_64
+-DCMAKE_SYSTEM_VERSION=21
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_ANDROID_NDK=D:\sdk\ndk\21.1.6352462
+-DCMAKE_TOOLCHAIN_FILE=D:\sdk\ndk\21.1.6352462\build\cmake\android.toolchain.cmake
+-G Ninja
+-DCMAKE_MAKE_PROGRAM=D:\sdk\cmake\3.10.2.4988404\bin\ninja.exe
+jvmArgs : 
+

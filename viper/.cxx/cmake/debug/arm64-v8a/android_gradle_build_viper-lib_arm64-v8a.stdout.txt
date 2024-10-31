@@ -1,0 +1,3 @@
+ninja: Entering directory `D:\W3_Office\main_repo\viper_gitlab\viper\viper\.cxx\cmake\debug\arm64-v8a'
+[1/2] Building CXX object CMakeFiles/viper-lib.dir/viper-lib.cpp.o
+[2/2] Linking CXX shared library D:\W3_Office\main_repo\viper_gitlab\viper\viper\build\intermediates\cmake\debug\obj\arm64-v8a\libviper-lib.so

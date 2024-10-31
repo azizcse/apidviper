@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "D:\\sdk\\ndk\\21.1.6352462\\build\\cmake\\android.toolchain.cmake",
+    "D:\\sdk\\ndk\\21.1.6352462\\build\\cmake\\platforms.cmake",
+    "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\src\\main\\cpp\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cmake\\release\\x86_64\" clean"
+  ],
+  "buildTargetsCommand": "D:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cmake\\release\\x86_64\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "viper-lib-Release-x86_64": {
+      "artifactName": "viper-lib",
+      "buildCommand": "D:\\sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cmake\\release\\x86_64\" viper-lib",
+      "abi": "x86_64",
+      "output": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\build\\intermediates\\cmake\\release\\obj\\x86_64\\libviper-lib.so"
+    }
+  }
+}

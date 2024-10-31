@@ -1,0 +1,70 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper",
+      "sdkFolder": "D:\\sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\build\\intermediates",
+      "gradleModulePathName": ":viper",
+      "moduleRootFolder": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper",
+      "makeFile": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\src\\main\\cpp\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\.cxx",
+      "cxxFolder": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx",
+      "ndkFolder": "D:\\sdk\\ndk\\21.1.6352462",
+      "ndkVersion": "21.1.6352462",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [],
+    "variantName": "release",
+    "soFolder": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\build\\intermediates\\cmake\\release\\lib",
+    "objFolder": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\build\\intermediates\\cmake\\release\\obj",
+    "jsonFolder": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cmake\\release",
+    "gradleBuildOutputFolder": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cxx\\release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "ARMEABI_V7A",
+  "abiPlatformVersion": 21,
+  "cxxBuildFolder": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cmake\\release\\armeabi-v7a",
+  "jsonFile": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cmake\\release\\armeabi-v7a\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cxx\\release\\armeabi-v7a",
+  "objFolder": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\build\\intermediates\\cmake\\release\\obj\\armeabi-v7a",
+  "buildCommandFile": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cmake\\release\\armeabi-v7a\\build_command.txt",
+  "buildOutputFile": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cmake\\release\\armeabi-v7a\\build_output.txt",
+  "modelOutputFile": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cmake\\release\\armeabi-v7a\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cxx\\release\\armeabi-v7a\\CMakeLists.txt",
+    "toolchainWrapperFile": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cxx\\release\\armeabi-v7a\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cxx\\release\\armeabi-v7a\\build_generation_state.json",
+    "cacheKeyFile": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cxx\\release\\armeabi-v7a\\compiler_cache_key.json",
+    "compilerCacheUseFile": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cxx\\release\\armeabi-v7a\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cxx\\release\\armeabi-v7a\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cxx\\release\\armeabi-v7a\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cmake\\release\\armeabi-v7a\\json_generation_record.json",
+  "compileCommandsJsonFile": "D:\\W3_Office\\main_repo\\viper_gitlab\\viper\\viper\\.cxx\\cmake\\release\\armeabi-v7a\\compile_commands.json"
+}

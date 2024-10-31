@@ -1,0 +1,6 @@
+# ninja log v5
+1	1122	612257713	CMakeFiles/viper-lib.dir/viper-lib.cpp.o	2b5f817ddf0bc3d6
+1123	1312	612257713	D:/W3_Office/main_repo/viper_gitlab/viper/viper/build/intermediates/cmake/debug/obj/x86_64/libviper-lib.so	ea7aa03614fa54f7
+0	25	0	clean	fa2febc325648e13
+8	2910	612257884	CMakeFiles/viper-lib.dir/viper-lib.cpp.o	2b5f817ddf0bc3d6
+2910	3428	612257885	D:/W3_Office/main_repo/viper_gitlab/viper/viper/build/intermediates/cmake/debug/obj/x86_64/libviper-lib.so	ea7aa03614fa54f7
